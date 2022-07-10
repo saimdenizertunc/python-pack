@@ -4,7 +4,7 @@ from collections import Counter
 
 
 def firstUniqChar(s):
-    count = collections.Counter(s)
+    count = Counter(s)
     for i, l in enumerate(s):
         if count[l] == 1:
             return i
