@@ -1,3 +1,6 @@
+from collections import Counter
+
+
 def topKFrequent(nums, k):
     freq_table = Counter(nums)
     ans_table = freq_table.most_common()
