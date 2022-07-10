@@ -1,6 +1,6 @@
 ## Minimal examples of data structures and algorithms in Python.
 
-Some algorithms that I wrote with intellectual curiosity using Python. Including:
+Some algorithms that I wrote for my intellectual curiosity using Python. Including:
 
 - Dynamic Programming
 - Divide and Conquer
