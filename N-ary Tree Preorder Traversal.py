@@ -10,7 +10,7 @@ class Node:
 import math
 
 
-def preorder(self, root: 'Node') -> List[int]:
+def preorder(root):
     def depth_first(node, ans):
         ans.append(node.val)
         for child in node.children:
